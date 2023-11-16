@@ -7,4 +7,10 @@
   letter-spacing: normal;
   text-align: center;
   color: #0d0d0d;
+  text-transform: uppercase;
+  &_left {
+    color: #fff;
+    text-align: left;
+    font-size: 36px;
+  }
 }
